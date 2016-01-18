@@ -1,0 +1,10 @@
+# .gitgnore 
+
+# Ignorer les fichiers de sauvegarde
+*~
+
+# Ignorer les fichiers de pré-compilation python
+*.pyc
+
+# Ignorer le dossier des bibliothèques et module externes au projet
+external/*
