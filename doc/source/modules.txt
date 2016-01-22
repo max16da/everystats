@@ -1,0 +1,12 @@
+=====
+Modules
+=====
+
+.. automodule:: cherrypy
+	:members:cherrypy
+	
+.. automodule:: stat_if_user
+	:members: margaux
+	
+.. automodule:: everystats
+	:members: margaux

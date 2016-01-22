@@ -1,0 +1,10 @@
+=====
+Schéma du projet
+=====
+
+.. figure:: _static/schema.png
+   :scale: 100%
+   :alt: schema d'analyse du projet
+
+
+.. figure:: _static/classdiagram.bmp

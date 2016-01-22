@@ -1,0 +1,40 @@
+=====
+Arborescence du projet
+=====
+
+python_projetStat/
+	author
+	
+	ChangeLog
+	
+	doc/
+	
+		build/
+		
+		make.bat
+		
+		MakeFile
+		
+		source/
+		
+			conf.py
+			
+			index.txt
+			
+			_static/
+			
+			_templates/
+			
+	external/
+	
+		lib/
+		
+	LICENSE
+	
+	projetStat/
+	
+		projet_stat.py
+		
+	Readme.txt 
+	
+	REVISION

@@ -2,5 +2,23 @@ ChangeLog
 
 Journal des modifications
 
+22.01.16
+Application "everystats fonctionnelle
+
+21.01.16
+Développement module par module en cours
+Changement des noms de fichiers
+Création des fichiers tests : everystats_tests_init, stats_tests_appli, everystats_tests
+
+20.01.16
+Début du développement module par module
+Ajout du répertoire test
+
+19.01.16
+Schéma représentatif du projet everystats
+Analyse du projet et architecture
+
 18.01.16
 Création de l'arborescence du projet
+Mise en place de la structure documentaire
+Création de l'environnement pour la documentation Sphinx
